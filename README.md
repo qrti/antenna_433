@@ -10,7 +10,7 @@
 - guide_low  6x    
 - mount      2x
 
-  [-> 3D print .stl files](print3D)
+  [-> 3D print .stl files](https://github.com/qrti/antenna_433/tree/master/print3d)
 
 #### assembly
 - prepare two wire loops, look at  
