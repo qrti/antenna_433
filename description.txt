@@ -1,0 +1,21 @@
+Half Wave Ring Antenna Holder
+
+print list
+- carry      1x
+- guide_high 6x
+- guide_low  6x    
+- mount      2x
+
+- prepare two wire loops, look at
+  https://diydrones.com/profiles/blogs/more-433-mhz-antenna-the-1-2wave-ring-radiator
+  
+  discrepancy: this printed parts are designed for 1 mm (enameled) copper wire
+               using thicker wire might make the construction wobbly
+
+- assemble three sandwiches, strap them with zip ties
+  mind the grooves of the guides
+  one sandwich may hold the mounts
+
+  tie + (mount) + guide_low + wire-loop 1 + guide_high + carry + guide-high + wire-loop 2 + guide_low + (mount) + tie
+
+- I tuned the antenna by positioning CMOS foam between the wire loops, surprisingly this worked very well and accurate
